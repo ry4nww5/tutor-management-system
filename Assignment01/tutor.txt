@@ -1,0 +1,6 @@
+ID 	 Name 	 Date Joined 	 Date Terminated 	 Hourly Rate 	 Phone No 	 Address 	 Rating 	 Centre Code 	 Centre Name 	 Subject Code 	 Subject Name
+1	Jin Yang	1/1/2019	-	60	000-000-0000	Bukit Jalil	TC001	APU Tuition Centre	SB001	Math
+2	Ryan	1/1/2019	-	30	000-000-0000	Cheras	TC002	APIIT Tuition Centre	SB002	Computer
+3	ZiHao	1/1/2019	-	90	000-000-0000	Ampang	TC003	ABU Tuition Centre	SB003	Science
+4	Vechi	1/1/2019	-	20	000-000-0000	Kajang	TC004	AJU Tuition Centre	SB004	English
+123	dwad	wadawd	awdw	132	000-000-0000	dwad	dwada	dwad	dwadwa	dawd
